@@ -1,0 +1,29 @@
+.event-item-image {
+  height: 150px;
+  width: 250px;
+}
+
+.event-name {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.event-location {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 17px;
+  margin-top: 0px;
+}
+
+.event-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin: 0px;
+  padding-left: 0px;
+}
+
+.item-container {
+  width: 50%;
+}
